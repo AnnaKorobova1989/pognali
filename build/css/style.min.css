@@ -1,2 +1,2 @@
-h1{color:red}
+@font-face{font-family:'Blogger Sans';font-weight:400;font-style:normal;font-display:swap;src:url(../fonts/bloggersans.woff2) format("woff2"),url(../fonts/bloggersans.woff) format("woff")}@font-face{font-family:'Blogger Sans';font-weight:700;font-style:normal;font-display:swap;src:url(../fonts/bloggersans-medium.woff2) format("woff2"),url(../fonts/bloggersans-medium.woff) format("woff")}@font-face{font-family:"Blogger Sans";font-weight:300;font-style:normal;font-display:swap;src:url(../fonts/bloggersans-light.woff2) format("woff2"),url(../fonts/bloggersans-light.woff) format("woff")}body{font-family:'Blogger Sans'}
 /*# sourceMappingURL=style.min.css.map */
